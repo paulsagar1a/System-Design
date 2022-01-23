@@ -5,3 +5,9 @@ Unique ID generator:
 Garbage collection in java: https://www.freecodecamp.org/news/garbage-collection-in-java-what-is-gc-and-how-it-works-in-the-jvm/
 JVM: https://www.freecodecamp.org/news/jvm-tutorial-java-virtual-machine-architecture-explained-for-beginners/
 Operational Transformations as an algorithm for automatic conflict resolution : https://medium.com/coinmonks/operational-transformations-as-an-algorithm-for-automatic-conflict-resolution-3bf8920ea447
+
+Design a Payment System:
+  https://medium.com/airbnb-engineering/avoiding-double-payments-in-a-distributed-payments-system-2981f6b070bb#:~:text=What%20is%20idempotency%3F,result%20will%20be%20the%20same.&text=An%20idempotent%20request%20is%20a,is%20charged%20at%20most%20once).
+  https://medium.com/airbnb-engineering/measuring-transactional-integrity-in-airbnbs-distributed-payment-ecosystem-a670d6926d22
+  https://medium.com/airbnb-engineering/tracking-the-money-scaling-financial-reporting-at-airbnb-6d742b80f040
+  (Good to read) https://medium.com/airbnb-engineering/migrating-kafka-transparently-between-zookeeper-clusters-e68a75062f65
