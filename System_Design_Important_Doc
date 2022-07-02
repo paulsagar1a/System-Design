@@ -34,3 +34,9 @@ https://avikdas.com/2020/05/11/scalability-concepts-the-reliability-queue.html
 https://levelup.gitconnected.com/design-for-failure-distributed-transaction-in-microservices-f026b25ba847
 https://newsletter.pragmaticengineer.com/p/designing-a-payment-system
 https://medium.com/airbnb-engineering/avoiding-double-payments-in-a-distributed-payments-system-2981f6b070bb
+https://developer.squareup.com/blog/books-an-immutable-double-entry-accounting-database-service/
+https://eng.uber.com/india-payments/
+https://www.confluent.io/blog/chain-services-exactly-guarantees/
+https://developer.paypal.com/reference/guidelines/idempotency/
+https://stripe.com/docs/api/expanding_objects
+https://stripe.com/blog/idempotency
