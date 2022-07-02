@@ -26,3 +26,11 @@ https://towardsdatascience.com/ace-the-system-design-interview-uber-lyft-7e4c212
 https://mecha-mind.medium.com/guesstimating-scalability-numbers-823d90ef0652
 https://www.grokkingsystemdesigns.com/design-stock-exchange/
 https://leetcode.com/discuss/interview-question/system-design/431712/Bloomberg-or-Design-a-system-to-give-prices-of-a-stock
+
+
+Payment System
+https://dropbox.tech/infrastructure/handling-system-failures-during-payment-communication
+https://avikdas.com/2020/05/11/scalability-concepts-the-reliability-queue.html
+https://levelup.gitconnected.com/design-for-failure-distributed-transaction-in-microservices-f026b25ba847
+https://newsletter.pragmaticengineer.com/p/designing-a-payment-system
+https://medium.com/airbnb-engineering/avoiding-double-payments-in-a-distributed-payments-system-2981f6b070bb
